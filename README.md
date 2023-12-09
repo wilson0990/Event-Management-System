@@ -1,2 +1,1 @@
-# Event-Management-Project
-Source Code for the event management project at eventmanagement.pythonanywhere.com
+Developed Flask-based Event Management System for streamlined event tracking and data management.
